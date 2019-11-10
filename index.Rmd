@@ -12,7 +12,7 @@ include:
 
 #
 
-<img src="emily.jpg" alt="Emily Malcolm-White headshot" align="middle" class="img-circle" width="200" height="200" style="float: left; margin: 40px 40px 100px 0;">
+<img src="emily.jpg" alt="Emily Malcolm-White headshot" align="middle" class="img-circle" width="200" height="200" style="float: left; margin: 50px 50px 50px 0;">
 
 **Hi! I'm Emily Malcolm-White** and I am an experienced educator and student support specialist with experience developing and teaching mathematics, statistics, and data science courses. 
 
