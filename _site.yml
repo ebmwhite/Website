@@ -1,6 +1,6 @@
-name: "R Markdown Websites Tutorial"
+name: "Emily Malcolm-White's Personal Website"
 navbar:
-  title: "HOME"
+  title: "Emily Malcolm-White"
   left:
     - text: "First Observations"
       href: first_observations.html
@@ -10,6 +10,8 @@ navbar:
       href: getting_sophisticated.html
     - text: "Your Turn"
       href: your_turn.html
+    - text: "MATH 116"
+      href: math116.html
 output_dir: "."
 output:
   html_document:
