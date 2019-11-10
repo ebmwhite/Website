@@ -1,6 +1,4 @@
 ---
-title: "Emily Malcolm-White"
-author:  "[Emily Malcolm-White](https://github.com/ebmwhite), 11/10/19"
 output:
   html_document:
     fig_width: 1
