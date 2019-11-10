@@ -1,0 +1,9 @@
+---
+title: "Intro to Statistical Science"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
