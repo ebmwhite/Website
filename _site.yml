@@ -12,6 +12,8 @@ navbar:
       href: your_turn.html
     - text: "Intro to Statistical Science"
       href: math116.html
+    - text: "Intro to Data Science" 
+      href: math216.html
 output_dir: "."
 output:
   html_document:
