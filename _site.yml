@@ -2,14 +2,8 @@ name: "Emily Malcolm-White's Personal Website"
 navbar:
   title: "Emily Malcolm-White"
   left:
-    - text: "First Observations"
-      href: first_observations.html
-    - text: "Basic Workflow"
-      href: basic_workflow.html
-    - text: "Getting Sophisticated"
-      href: getting_sophisticated.html
-    - text: "Your Turn"
-      href: your_turn.html
+    - text: "CV"
+      href: cv.html
     - text: "Intro to Statistical Science"
       href: math116.html
     - text: "Intro to Data Science" 
