@@ -2,8 +2,6 @@ name: "Emily Malcolm-White's Personal Website"
 navbar:
   title: "Emily Malcolm-White"
   left:
-    - text: "CV"
-      href: cv.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
