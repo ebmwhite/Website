@@ -6,13 +6,33 @@ include:
   - .img-circle {border-radius: 50%;}
 ---
 
-#
+<style>
+.column-left{
+  float: left;
+  width: 40%;
+  text-align: center;
+}
+.column-main{
+  display: inline-block;
+  width: 60%;
+  text-align: left;
+}
+</style>
 
-#
 
-#
+<br>
+<br>
 
-<img src="emily.jpg" alt="Emily Malcolm-White headshot" align="middle" class="img-circle" width="200" height="200" style="float: left; margin: 50px 50px 50px 0;">
+<div class="column-left">
+<img src="emily.jpg" alt="Emily Malcolm-White headshot" align="middle" class="img-circle" width="200" height="200" style=" margin: 20px 20px 20px 0;">
+
+Emily Malcolm-White\
+Lecturer at Middlebury College\
+emalcolmwhite@middlebury.edu \
+emilybmwhite@gmail.com
+</div>
+
+<div class="column-main">
 
 **Hi! I'm Emily Malcolm-White** and I am an experienced educator and student support specialist with experience developing and teaching mathematics, statistics, and data science courses. 
 
@@ -23,3 +43,4 @@ I currently work as a Lecturer in Mathematics and Statistics at Middlebury Colle
 - [Click to download a copy of my CV](EMW_CV.pdf)
 - [Click to view my educational videos on YouTube](https://www.youtube.com/channel/UCGE_eugh_WGuQfb1T4Y35SA)
 - [Click to view "RateMyProfessor" Reviews](https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2068864)
+</div>
