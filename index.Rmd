@@ -24,7 +24,7 @@ include:
 <br>
 
 <div class="column-left">
-<img src="emily.jpg" alt="Emily Malcolm-White headshot" align="middle" class="img-circle" width="200" height="200" style=" margin: 20px 20px 20px 0;">
+<img src="emily.jpg" alt="Emily Malcolm-White headshot" align="middle" class="img-circle" width="200" height="200" style=" margin: 20px 20px 20px 20px;">
 
 Emily Malcolm-White\
 *Lecturer at Middlebury College*\
