@@ -28,7 +28,6 @@ include:
 
 Emily Malcolm-White\
 *Lecturer at Middlebury College*\
-emalcolmwhite@middlebury.edu \
 emilybmwhite@gmail.com
 </div>
 
